@@ -10,11 +10,11 @@ You can get an APK you can install under [Releases](https://github.com/NiciDieNa
 If you don't know how install that on your device, have a look [here](http://www.aftvnews.com/sideload/)
 
 ## Screenshots
-<img src="screenshots/device-2017-12-27-163959_cut.png" width="250">
-<img src="screenshots/Screenshot_1545929985.png" width="250"><img src="screenshots/Screenshot_1545930062.png" width="250">
-<img src="screenshots/Screenshot_1545925549.png" width="500">
-<img src="screenshots/Screenshot_1545925543.png" width="500">
-<img src="screenshots/Screenshot_1545925197.png" width="500">
+<img src="screenshots/device-2017-12-27-163959_cut.png" width="768" alt="">
+<img src="screenshots/Screenshot_1545929985.png" width="1440" alt=""><img src="screenshots/Screenshot_1545930062.png" width="1440" alt="">
+<img src="screenshots/Screenshot_1545925549.png" width="1920" alt="">
+<img src="screenshots/Screenshot_1545925543.png" width="1920" alt="">
+<img src="screenshots/Screenshot_1545925197.png" width="1920" alt="">
 
 
 [playstore]: https://play.google.com/store/apps/details?id=de.nicidienase.chaosflix
